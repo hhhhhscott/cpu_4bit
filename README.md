@@ -17,6 +17,12 @@
 
 详细分析： 简易4位CPU.pdf
 
+PCB原理图：Schlib1.SchLib
+
+PCB图：PCB1.PcbDoc
+
+PCB图PDF版：4bit.pdf
+
 说明： 
 
       1.电路支持两种代码写入模式，一种是由开关二极管及下拉电阻构成的ROM阵列，另一种是通过RAM写入，但此输入模式不稳定。文件中预设的输入模式是ROM阵列。
